@@ -23,8 +23,8 @@ This repository contains a Python implementation of a cognitive agents swarm, in
 
 1. Clone the repository:
     ```bash
-    git clone 
-    cd cognitive-agents-swarm
+    git clone https://github.com/AlinBolcas/Cognitive-Multi-Agent-Swarm.git
+    cd cognitive-multi-agent-swarm
     ```
 
 2. Install the required Python packages:
