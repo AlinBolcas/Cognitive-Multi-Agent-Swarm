@@ -1,5 +1,8 @@
 # Cognitive Multi-Agent Swarm
-(This file has been automatically generated)
+
+This is a dummy project in learning LangGraph and exploring the idea of the beginning of simulating artificial consciousness with compartmentalised entities working together for more emergent behaviour.
+I'm biased to believe there's still great yet untapped potential in this area of following theories of how we try to divide and construct the mind to replicate it with AI system.s to better understand ourselves.
+The rest of this file has been automatically generated.
 
 ![cover](https://github.com/AlinBolcas/Cognitive-Multi-Agent-Swarm/blob/5729781bfb58bbd8d76f037992563cc10ca4a67e/src/example.png)
 
