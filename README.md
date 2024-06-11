@@ -1,6 +1,6 @@
 # Cognitive Multi-Agent Swarm
 
-![Architecture][architecture.png]
+![Architecture](https://raw.githubusercontent.com/AlinBolcas/Cognitive-Multi-Agent-Swarm/3560618fe09c6c4903fe162082efa66d7fb4b46b/architecture.png)
 
 ## Overview
 
