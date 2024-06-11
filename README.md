@@ -1,4 +1,4 @@
-# Cognitive Agents Swarm
+# Cognitive Multi-Agent Swarm
 
 ## Overview
 
