@@ -1,6 +1,7 @@
 # Cognitive Multi-Agent Swarm
+(This file has been automatically generated)
 
-![Architecture](https://raw.githubusercontent.com/AlinBolcas/Cognitive-Multi-Agent-Swarm/3560618fe09c6c4903fe162082efa66d7fb4b46b/architecture.png)
+![cover](https://github.com/AlinBolcas/Cognitive-Multi-Agent-Swarm/blob/5729781bfb58bbd8d76f037992563cc10ca4a67e/src/example.png)
 
 ## Overview
 
@@ -58,6 +59,8 @@ This repository contains a Python implementation of a cognitive agents swarm, in
 - Make the system more modular by declaring all agents together and removing TTS and text generation functionalities from the class.
 
 ## Code Overview
+
+![architecture](https://github.com/AlinBolcas/Cognitive-Multi-Agent-Swarm/blob/5729781bfb58bbd8d76f037992563cc10ca4a67e/src/architecture.png)
 
 ### AgentGen Class
 
