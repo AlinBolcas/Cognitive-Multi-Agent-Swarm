@@ -1,5 +1,7 @@
 # Cognitive Multi-Agent Swarm
 
+![Architecture][https://github.com/AlinBolcas/Cognitive-Multi-Agent-Swarm/blob/fd5079d8bf4fb2a28f1df5c17b84b9c687dcab92/architecture.png]
+
 ## Overview
 
 This repository contains a Python implementation of a cognitive agents swarm, inspired by psychoanalytic theory. The system integrates various cognitive components such as Ego, Id, Superego, Creativity, Rationality, and Emotion to simulate complex interactions and generate responses to user inputs. The goal is to manage conversations between these components to provide comprehensive and balanced outputs.
